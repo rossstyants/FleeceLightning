@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>st02_Rope.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {11, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>11</string>
+			<key>spriteSizeY</key>
+			<string>140</string>
+			<key>spritePosX</key>
+			<string>594</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{11, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 140}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{594, 2}, {11, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>st03CongratsSign.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {528, 153}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>528</string>
+			<key>spriteSizeY</key>
+			<string>153</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{528, 153}</string>
+			<key>spriteSourceSize</key>
+			<string>{528, 153}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {528, 153}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>st04LongTitle.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {590, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>590</string>
+			<key>spriteSizeY</key>
+			<string>128</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>157</string>
+			<key>spriteSize</key>
+			<string>{590, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{590, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 157}, {590, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

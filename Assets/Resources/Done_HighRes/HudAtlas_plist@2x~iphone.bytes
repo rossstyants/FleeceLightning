@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>h01_BitzerWhistle.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {288, 345}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>288</string>
+			<key>spriteSizeY</key>
+			<string>345</string>
+			<key>spritePosX</key>
+			<string>10</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{288, 345}</string>
+			<key>spriteSourceSize</key>
+			<string>{288, 345}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{10, 2}, {288, 345}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h02_RaceLine.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {6, 420}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>6</string>
+			<key>spriteSizeY</key>
+			<string>420</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{6, 420}</string>
+			<key>spriteSourceSize</key>
+			<string>{6, 420}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {6, 420}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h03_ShaunHead.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>80</string>
+			<key>spriteSizeY</key>
+			<string>64</string>
+			<key>spritePosX</key>
+			<string>148</string>
+			<key>spritePosY</key>
+			<string>349</string>
+			<key>spriteSize</key>
+			<string>{80, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{148, 349}, {80, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h04_PiggyHead.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {53, 67}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>53</string>
+			<key>spriteSizeY</key>
+			<string>67</string>
+			<key>spritePosX</key>
+			<string>10</string>
+			<key>spritePosY</key>
+			<string>349</string>
+			<key>spriteSize</key>
+			<string>{53, 67}</string>
+			<key>spriteSourceSize</key>
+			<string>{53, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{10, 349}, {53, 67}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h05_Right.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {142, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>142</string>
+			<key>spriteSizeY</key>
+			<string>138</string>
+			<key>spritePosX</key>
+			<string>872</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{142, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{142, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{872, 2}, {142, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h06_Left.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {140, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>140</string>
+			<key>spriteSizeY</key>
+			<string>138</string>
+			<key>spritePosX</key>
+			<string>872</string>
+			<key>spritePosY</key>
+			<string>142</string>
+			<key>spriteSize</key>
+			<string>{140, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{142, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{872, 142}, {140, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h07_PauseButton.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>81</string>
+			<key>spriteSizeY</key>
+			<string>66</string>
+			<key>spritePosX</key>
+			<string>65</string>
+			<key>spritePosY</key>
+			<string>349</string>
+			<key>spriteSize</key>
+			<string>{81, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{65, 349}, {81, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h08_PauseBar.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {640, 63}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>640</string>
+			<key>spriteSizeY</key>
+			<string>63</string>
+			<key>spritePosX</key>
+			<string>230</string>
+			<key>spritePosY</key>
+			<string>349</string>
+			<key>spriteSize</key>
+			<string>{640, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 63}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 349}, {640, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h09_ButtonNext.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 4}, {47, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>47</string>
+			<key>spriteSizeY</key>
+			<string>47</string>
+			<key>spritePosX</key>
+			<string>351</string>
+			<key>spritePosY</key>
+			<string>282</string>
+			<key>spriteSize</key>
+			<string>{47, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{351, 282}, {47, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h10_ButtonRetry.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {47, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>47</string>
+			<key>spriteSizeY</key>
+			<string>46</string>
+			<key>spritePosX</key>
+			<string>400</string>
+			<key>spritePosY</key>
+			<string>282</string>
+			<key>spriteSize</key>
+			<string>{47, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 54}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{400, 282}, {47, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h11_ButtonMenu.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {49, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>49</string>
+			<key>spriteSizeY</key>
+			<string>50</string>
+			<key>spritePosX</key>
+			<string>300</string>
+			<key>spritePosY</key>
+			<string>282</string>
+			<key>spriteSize</key>
+			<string>{49, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{57, 54}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{300, 282}, {49, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h12_TargetMenu.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {162, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>162</string>
+			<key>spriteSizeY</key>
+			<string>160</string>
+			<key>spritePosX</key>
+			<string>300</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{162, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{162, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{300, 2}, {162, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>h13_PauseBar_iPad.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {768, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>768</string>
+			<key>spriteSizeY</key>
+			<string>76</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>424</string>
+			<key>spriteSize</key>
+			<string>{768, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{768, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 424}, {768, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

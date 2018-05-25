@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>st02_Rope.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {6, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>6</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>299</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{6, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{6, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 2}, {6, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>st03CongratsSign.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {264, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>264</string>
+			<key>spriteSizeY</key>
+			<string>77</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{264, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{264, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {264, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>st04LongTitle.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {295, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>295</string>
+			<key>spriteSizeY</key>
+			<string>64</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>81</string>
+			<key>spriteSize</key>
+			<string>{295, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{295, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 81}, {295, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

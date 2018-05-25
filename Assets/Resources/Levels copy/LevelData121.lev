@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numObjects</key>
+	<integer>9</integer>
+	<key>objectPosX0</key>
+	<integer>-1</integer>
+	<key>objectPosX1</key>
+	<integer>3</integer>
+	<key>objectPosX2</key>
+	<integer>-1</integer>
+	<key>objectPosX3</key>
+	<integer>288</integer>
+	<key>objectPosX4</key>
+	<integer>101</integer>
+	<key>objectPosX5</key>
+	<integer>2</integer>
+	<key>objectPosX6</key>
+	<integer>0</integer>
+	<key>objectPosX7</key>
+	<integer>313</integer>
+	<key>objectPosX8</key>
+	<integer>73</integer>
+	<key>objectPosY0</key>
+	<integer>11</integer>
+	<key>objectPosY1</key>
+	<integer>16</integer>
+	<key>objectPosY2</key>
+	<integer>20</integer>
+	<key>objectPosY3</key>
+	<integer>1744</integer>
+	<key>objectPosY4</key>
+	<integer>1421</integer>
+	<key>objectPosY5</key>
+	<integer>25</integer>
+	<key>objectPosY6</key>
+	<integer>49</integer>
+	<key>objectPosY7</key>
+	<integer>871</integer>
+	<key>objectPosY8</key>
+	<integer>1709</integer>
+	<key>objectType0</key>
+	<integer>50</integer>
+	<key>objectType1</key>
+	<integer>50</integer>
+	<key>objectType2</key>
+	<integer>50</integer>
+	<key>objectType3</key>
+	<integer>2</integer>
+	<key>objectType4</key>
+	<integer>2</integer>
+	<key>objectType5</key>
+	<integer>50</integer>
+	<key>objectType6</key>
+	<integer>17</integer>
+	<key>objectType7</key>
+	<integer>54</integer>
+	<key>objectType8</key>
+	<integer>54</integer>
+	<key>sceneType</key>
+	<integer>5</integer>
+</dict>
+</plist>

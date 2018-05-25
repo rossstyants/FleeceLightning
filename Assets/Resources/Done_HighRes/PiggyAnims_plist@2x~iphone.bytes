@@ -1,0 +1,5503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>ShaunXJump2_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{241, 108}, {143, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{53, 18}</string>
+			<key>spriteSizeX</key>
+			<string>143</string>
+			<key>spriteSizeY</key>
+			<string>168</string>
+			<key>spritePosX</key>
+			<string>692</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{143, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{519, 420}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{692, 2}, {143, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ShaunXJump2_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{241, 108}, {143, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{53, 18}</string>
+			<key>spriteSizeX</key>
+			<string>143</string>
+			<key>spriteSizeY</key>
+			<string>168</string>
+			<key>spritePosX</key>
+			<string>628</string>
+			<key>spritePosY</key>
+			<string>174</string>
+			<key>spriteSize</key>
+			<string>{143, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{519, 420}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 174}, {143, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ShaunXJump2_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{241, 108}, {143, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{53, 18}</string>
+			<key>spriteSizeX</key>
+			<string>143</string>
+			<key>spriteSizeY</key>
+			<string>168</string>
+			<key>spritePosX</key>
+			<string>600</string>
+			<key>spritePosY</key>
+			<string>655</string>
+			<key>spriteSize</key>
+			<string>{143, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{519, 420}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{600, 655}, {143, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ShaunXJump2_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 55}, {144, 169}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 9}</string>
+			<key>spriteSizeX</key>
+			<string>144</string>
+			<key>spriteSizeY</key>
+			<string>169</string>
+			<key>spritePosX</key>
+			<string>523</string>
+			<key>spritePosY</key>
+			<string>484</string>
+			<key>spriteSize</key>
+			<string>{144, 169}</string>
+			<key>spriteSourceSize</key>
+			<string>{268, 297}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{523, 484}, {144, 169}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ShaunXJump_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{106, 46}, {68, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 14}</string>
+			<key>spriteSizeX</key>
+			<string>68</string>
+			<key>spriteSizeY</key>
+			<string>156</string>
+			<key>spritePosX</key>
+			<string>1269</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{68, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1269, 2}, {68, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ShaunXJump_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{73, 39}, {132, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 16}</string>
+			<key>spriteSizeX</key>
+			<string>132</string>
+			<key>spriteSizeY</key>
+			<string>166</string>
+			<key>spritePosX</key>
+			<string>773</string>
+			<key>spritePosY</key>
+			<string>172</string>
+			<key>spriteSize</key>
+			<string>{132, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{773, 172}, {132, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ShaunXJump_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{62, 29}, {154, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 19}</string>
+			<key>spriteSizeX</key>
+			<string>154</string>
+			<key>spriteSizeY</key>
+			<string>180</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{154, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {154, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ShaunXJump_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{63, 27}, {152, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 21}</string>
+			<key>spriteSizeX</key>
+			<string>152</string>
+			<key>spriteSizeY</key>
+			<string>180</string>
+			<key>spritePosX</key>
+			<string>140</string>
+			<key>spritePosY</key>
+			<string>184</string>
+			<key>spriteSize</key>
+			<string>{152, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 184}, {152, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 13}, {151, 73}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSizeX</key>
+			<string>151</string>
+			<key>spriteSizeY</key>
+			<string>73</string>
+			<key>spritePosX</key>
+			<string>474</string>
+			<key>spritePosY</key>
+			<string>1268</string>
+			<key>spriteSize</key>
+			<string>{151, 73}</string>
+			<key>spriteSourceSize</key>
+			<string>{153, 91}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{474, 1268}, {151, 73}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 15}, {147, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSizeX</key>
+			<string>147</string>
+			<key>spriteSizeY</key>
+			<string>80</string>
+			<key>spritePosX</key>
+			<string>907</string>
+			<key>spritePosY</key>
+			<string>1146</string>
+			<key>spriteSize</key>
+			<string>{147, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{153, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{907, 1146}, {147, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 15}, {136, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSizeX</key>
+			<string>136</string>
+			<key>spriteSizeY</key>
+			<string>90</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>322</string>
+			<key>spriteSize</key>
+			<string>{136, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{148, 116}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 322}, {136, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 13}, {124, 103}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 1}</string>
+			<key>spriteSizeX</key>
+			<string>124</string>
+			<key>spriteSizeY</key>
+			<string>103</string>
+			<key>spritePosX</key>
+			<string>698</string>
+			<key>spritePosY</key>
+			<string>1571</string>
+			<key>spriteSize</key>
+			<string>{124, 103}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 131}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{698, 1571}, {124, 103}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{18, 7}, {111, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSizeX</key>
+			<string>111</string>
+			<key>spriteSizeY</key>
+			<string>122</string>
+			<key>spritePosX</key>
+			<string>1463</string>
+			<key>spritePosY</key>
+			<string>1163</string>
+			<key>spriteSize</key>
+			<string>{111, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 142}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1463, 1163}, {111, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 5}, {102, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSizeX</key>
+			<string>102</string>
+			<key>spriteSizeY</key>
+			<string>134</string>
+			<key>spritePosX</key>
+			<string>501</string>
+			<key>spritePosY</key>
+			<string>348</string>
+			<key>spriteSize</key>
+			<string>{102, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{130, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{501, 348}, {102, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 4}, {91, 145}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSizeX</key>
+			<string>91</string>
+			<key>spriteSizeY</key>
+			<string>145</string>
+			<key>spritePosX</key>
+			<string>1194</string>
+			<key>spritePosY</key>
+			<string>1248</string>
+			<key>spriteSize</key>
+			<string>{91, 145}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 155}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1194, 1248}, {91, 145}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 3}, {83, 145}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 8}</string>
+			<key>spriteSizeX</key>
+			<string>83</string>
+			<key>spriteSizeY</key>
+			<string>145</string>
+			<key>spritePosX</key>
+			<string>1530</string>
+			<key>spritePosY</key>
+			<string>299</string>
+			<key>spriteSize</key>
+			<string>{83, 145}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 167}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1530, 299}, {83, 145}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 2}, {80, 149}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>80</string>
+			<key>spriteSizeY</key>
+			<string>149</string>
+			<key>spritePosX</key>
+			<string>1253</string>
+			<key>spritePosY</key>
+			<string>927</string>
+			<key>spriteSize</key>
+			<string>{80, 149}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 153}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1253, 927}, {80, 149}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 2}, {82, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 8}</string>
+			<key>spriteSizeX</key>
+			<string>82</string>
+			<key>spriteSizeY</key>
+			<string>150</string>
+			<key>spritePosX</key>
+			<string>1339</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{82, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1339, 2}, {82, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {78, 149}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSizeX</key>
+			<string>78</string>
+			<key>spriteSizeY</key>
+			<string>149</string>
+			<key>spritePosX</key>
+			<string>1325</string>
+			<key>spritePosY</key>
+			<string>472</string>
+			<key>spriteSize</key>
+			<string>{78, 149}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 151}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1325, 472}, {78, 149}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {80, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSizeX</key>
+			<string>80</string>
+			<key>spriteSizeY</key>
+			<string>150</string>
+			<key>spritePosX</key>
+			<string>1339</string>
+			<key>spritePosY</key>
+			<string>154</string>
+			<key>spriteSize</key>
+			<string>{80, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1339, 154}, {80, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 2}, {82, 149}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>82</string>
+			<key>spriteSizeY</key>
+			<string>149</string>
+			<key>spritePosX</key>
+			<string>1231</string>
+			<key>spritePosY</key>
+			<string>776</string>
+			<key>spriteSize</key>
+			<string>{82, 149}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 153}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1231, 776}, {82, 149}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 3}, {84, 145}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 8}</string>
+			<key>spriteSizeX</key>
+			<string>84</string>
+			<key>spriteSizeY</key>
+			<string>145</string>
+			<key>spritePosX</key>
+			<string>1487</string>
+			<key>spritePosY</key>
+			<string>451</string>
+			<key>spriteSize</key>
+			<string>{84, 145}</string>
+			<key>spriteSourceSize</key>
+			<string>{110, 167}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1487, 451}, {84, 145}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 4}, {91, 145}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSizeX</key>
+			<string>91</string>
+			<key>spriteSizeY</key>
+			<string>145</string>
+			<key>spritePosX</key>
+			<string>1266</string>
+			<key>spritePosY</key>
+			<string>1078</string>
+			<key>spriteSize</key>
+			<string>{91, 145}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 155}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1266, 1078}, {91, 145}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 5}, {102, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSizeX</key>
+			<string>102</string>
+			<key>spriteSizeY</key>
+			<string>136</string>
+			<key>spritePosX</key>
+			<string>1359</string>
+			<key>spritePosY</key>
+			<string>1067</string>
+			<key>spriteSize</key>
+			<string>{102, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{130, 150}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1359, 1067}, {102, 136}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 6}, {111, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 4}</string>
+			<key>spriteSizeX</key>
+			<string>111</string>
+			<key>spriteSizeY</key>
+			<string>122</string>
+			<key>spritePosX</key>
+			<string>1552</string>
+			<key>spritePosY</key>
+			<string>993</string>
+			<key>spriteSize</key>
+			<string>{111, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 142}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1552, 993}, {111, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 12}, {125, 103}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 2}</string>
+			<key>spriteSizeX</key>
+			<string>125</string>
+			<key>spriteSizeY</key>
+			<string>103</string>
+			<key>spritePosX</key>
+			<string>571</string>
+			<key>spritePosY</key>
+			<string>1571</string>
+			<key>spriteSize</key>
+			<string>{125, 103}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 131}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{571, 1571}, {125, 103}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 15}, {137, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSizeX</key>
+			<string>137</string>
+			<key>spriteSizeY</key>
+			<string>90</string>
+			<key>spritePosX</key>
+			<string>142</string>
+			<key>spritePosY</key>
+			<string>1610</string>
+			<key>spriteSize</key>
+			<string>{137, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{149, 116}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{142, 1610}, {137, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 15}, {146, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSizeX</key>
+			<string>146</string>
+			<key>spriteSizeY</key>
+			<string>80</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1528</string>
+			<key>spriteSize</key>
+			<string>{146, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1528}, {146, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_01_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 13}, {152, 73}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -4}</string>
+			<key>spriteSizeX</key>
+			<string>152</string>
+			<key>spriteSizeY</key>
+			<string>73</string>
+			<key>spritePosX</key>
+			<string>320</string>
+			<key>spritePosY</key>
+			<string>1280</string>
+			<key>spriteSize</key>
+			<string>{152, 73}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 91}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 1280}, {152, 73}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 14}, {152, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -7}</string>
+			<key>spriteSizeX</key>
+			<string>152</string>
+			<key>spriteSizeY</key>
+			<string>77</string>
+			<key>spritePosX</key>
+			<string>286</string>
+			<key>spritePosY</key>
+			<string>740</string>
+			<key>spriteSize</key>
+			<string>{152, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 91}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 740}, {152, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 14}, {147, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSizeX</key>
+			<string>147</string>
+			<key>spriteSizeY</key>
+			<string>74</string>
+			<key>spritePosX</key>
+			<string>306</string>
+			<key>spritePosY</key>
+			<string>1477</string>
+			<key>spriteSize</key>
+			<string>{147, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{151, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 1477}, {147, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 14}, {141, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSizeX</key>
+			<string>141</string>
+			<key>spriteSizeY</key>
+			<string>86</string>
+			<key>spritePosX</key>
+			<string>1048</string>
+			<key>spritePosY</key>
+			<string>1388</string>
+			<key>spriteSize</key>
+			<string>{141, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1048, 1388}, {141, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 14}, {132, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>132</string>
+			<key>spriteSizeY</key>
+			<string>96</string>
+			<key>spritePosX</key>
+			<string>758</string>
+			<key>spritePosY</key>
+			<string>1461</string>
+			<key>spriteSize</key>
+			<string>{132, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{758, 1461}, {132, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 14}, {122, 107}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSizeX</key>
+			<string>122</string>
+			<key>spriteSizeY</key>
+			<string>107</string>
+			<key>spritePosX</key>
+			<string>1372</string>
+			<key>spritePosY</key>
+			<string>1337</string>
+			<key>spriteSize</key>
+			<string>{122, 107}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 133}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1372, 1337}, {122, 107}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 13}, {105, 123}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSizeX</key>
+			<string>105</string>
+			<key>spriteSizeY</key>
+			<string>123</string>
+			<key>spritePosX</key>
+			<string>1528</string>
+			<key>spritePosY</key>
+			<string>868</string>
+			<key>spriteSize</key>
+			<string>{105, 123}</string>
+			<key>spriteSourceSize</key>
+			<string>{133, 145}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1528, 868}, {105, 123}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 6}, {92, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>92</string>
+			<key>spriteSizeY</key>
+			<string>138</string>
+			<key>spritePosX</key>
+			<string>1722</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{92, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 148}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1722, 2}, {92, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 19}, {87, 145}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -8}</string>
+			<key>spriteSizeX</key>
+			<string>87</string>
+			<key>spriteSizeY</key>
+			<string>145</string>
+			<key>spritePosX</key>
+			<string>1335</string>
+			<key>spritePosY</key>
+			<string>920</string>
+			<key>spriteSize</key>
+			<string>{87, 145}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 167}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1335, 920}, {87, 145}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 4}, {81, 147}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>81</string>
+			<key>spriteSizeY</key>
+			<string>147</string>
+			<key>spritePosX</key>
+			<string>1325</string>
+			<key>spritePosY</key>
+			<string>623</string>
+			<key>spriteSize</key>
+			<string>{81, 147}</string>
+			<key>spriteSourceSize</key>
+			<string>{93, 153}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1325, 623}, {81, 147}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 18}, {74, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -9}</string>
+			<key>spriteSizeX</key>
+			<string>74</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>1105</string>
+			<key>spritePosY</key>
+			<string>944</string>
+			<key>spriteSize</key>
+			<string>{74, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1105, 944}, {74, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {73, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>73</string>
+			<key>spriteSizeY</key>
+			<string>150</string>
+			<key>spritePosX</key>
+			<string>1243</string>
+			<key>spritePosY</key>
+			<string>624</string>
+			<key>spriteSize</key>
+			<string>{73, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{75, 152}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1243, 624}, {73, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 20}, {74, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -10}</string>
+			<key>spriteSizeX</key>
+			<string>74</string>
+			<key>spriteSizeY</key>
+			<string>150</string>
+			<key>spritePosX</key>
+			<string>1249</string>
+			<key>spritePosY</key>
+			<string>472</string>
+			<key>spriteSize</key>
+			<string>{74, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1249, 472}, {74, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 4}, {80, 147}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>80</string>
+			<key>spriteSizeY</key>
+			<string>147</string>
+			<key>spritePosX</key>
+			<string>1405</string>
+			<key>spritePosY</key>
+			<string>456</string>
+			<key>spriteSize</key>
+			<string>{80, 147}</string>
+			<key>spriteSourceSize</key>
+			<string>{94, 153}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1405, 456}, {80, 147}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 19}, {86, 145}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -8}</string>
+			<key>spriteSizeX</key>
+			<string>86</string>
+			<key>spriteSizeY</key>
+			<string>145</string>
+			<key>spritePosX</key>
+			<string>1408</string>
+			<key>spritePosY</key>
+			<string>605</string>
+			<key>spriteSize</key>
+			<string>{86, 145}</string>
+			<key>spriteSourceSize</key>
+			<string>{110, 167}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1408, 605}, {86, 145}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 6}, {93, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>93</string>
+			<key>spriteSizeY</key>
+			<string>138</string>
+			<key>spritePosX</key>
+			<string>812</string>
+			<key>spritePosY</key>
+			<string>1074</string>
+			<key>spriteSize</key>
+			<string>{93, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{115, 148}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{812, 1074}, {93, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 12}, {107, 125}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSizeX</key>
+			<string>107</string>
+			<key>spriteSizeY</key>
+			<string>125</string>
+			<key>spritePosX</key>
+			<string>1602</string>
+			<key>spritePosY</key>
+			<string>588</string>
+			<key>spriteSize</key>
+			<string>{107, 125}</string>
+			<key>spriteSourceSize</key>
+			<string>{133, 145}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1602, 588}, {107, 125}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 14}, {120, 107}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>120</string>
+			<key>spriteSizeY</key>
+			<string>107</string>
+			<key>spritePosX</key>
+			<string>1750</string>
+			<key>spritePosY</key>
+			<string>674</string>
+			<key>spriteSize</key>
+			<string>{120, 107}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 133}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1750, 674}, {120, 107}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 14}, {132, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>132</string>
+			<key>spriteSizeY</key>
+			<string>96</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1838</string>
+			<key>spriteSize</key>
+			<string>{132, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{150, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1838}, {132, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 14}, {142, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSizeX</key>
+			<string>142</string>
+			<key>spriteSizeY</key>
+			<string>86</string>
+			<key>spritePosX</key>
+			<string>1050</string>
+			<key>spritePosY</key>
+			<string>1300</string>
+			<key>spriteSize</key>
+			<string>{142, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{148, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1050, 1300}, {142, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 14}, {148, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSizeX</key>
+			<string>148</string>
+			<key>spriteSizeY</key>
+			<string>74</string>
+			<key>spritePosX</key>
+			<string>466</string>
+			<key>spritePosY</key>
+			<string>1433</string>
+			<key>spriteSize</key>
+			<string>{148, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{152, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 1433}, {148, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_02_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 12}, {150, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -5}</string>
+			<key>spriteSizeX</key>
+			<string>150</string>
+			<key>spriteSizeY</key>
+			<string>76</string>
+			<key>spritePosX</key>
+			<string>466</string>
+			<key>spritePosY</key>
+			<string>1355</string>
+			<key>spriteSize</key>
+			<string>{150, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 90}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 1355}, {150, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 11}, {143, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSizeX</key>
+			<string>143</string>
+			<key>spriteSizeY</key>
+			<string>71</string>
+			<key>spritePosX</key>
+			<string>150</string>
+			<key>spritePosY</key>
+			<string>1528</string>
+			<key>spriteSize</key>
+			<string>{143, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 83}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{150, 1528}, {143, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 14}, {139, 75}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSizeX</key>
+			<string>139</string>
+			<key>spriteSizeY</key>
+			<string>75</string>
+			<key>spritePosX</key>
+			<string>286</string>
+			<key>spritePosY</key>
+			<string>887</string>
+			<key>spriteSize</key>
+			<string>{139, 75}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 97}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 887}, {139, 75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 15}, {131, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSizeX</key>
+			<string>131</string>
+			<key>spriteSizeY</key>
+			<string>88</string>
+			<key>spritePosX</key>
+			<string>892</string>
+			<key>spritePosY</key>
+			<string>1428</string>
+			<key>spriteSize</key>
+			<string>{131, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{892, 1428}, {131, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 14}, {123, 97}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>123</string>
+			<key>spriteSizeY</key>
+			<string>97</string>
+			<key>spritePosX</key>
+			<string>1022</string>
+			<key>spritePosY</key>
+			<string>1518</string>
+			<key>spriteSize</key>
+			<string>{123, 97}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 123}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1022, 1518}, {123, 97}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 15}, {112, 109}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSizeX</key>
+			<string>112</string>
+			<key>spriteSizeY</key>
+			<string>109</string>
+			<key>spritePosX</key>
+			<string>1648</string>
+			<key>spritePosY</key>
+			<string>839</string>
+			<key>spriteSize</key>
+			<string>{112, 109}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 135}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1648, 839}, {112, 109}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 11}, {100, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>100</string>
+			<key>spriteSizeY</key>
+			<string>122</string>
+			<key>spritePosX</key>
+			<string>1648</string>
+			<key>spritePosY</key>
+			<string>715</string>
+			<key>spriteSize</key>
+			<string>{100, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 142}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1648, 715}, {100, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 7}, {87, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>87</string>
+			<key>spriteSizeY</key>
+			<string>130</string>
+			<key>spritePosX</key>
+			<string>1463</string>
+			<key>spritePosY</key>
+			<string>1031</string>
+			<key>spriteSize</key>
+			<string>{87, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 144}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1463, 1031}, {87, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 21}, {83, 135}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -5}</string>
+			<key>spriteSizeX</key>
+			<string>83</string>
+			<key>spriteSizeY</key>
+			<string>135</string>
+			<key>spritePosX</key>
+			<string>1287</string>
+			<key>spritePosY</key>
+			<string>1337</string>
+			<key>spriteSize</key>
+			<string>{83, 135}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 167}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1287, 1337}, {83, 135}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 4}, {77, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSizeX</key>
+			<string>77</string>
+			<key>spriteSizeY</key>
+			<string>137</string>
+			<key>spritePosX</key>
+			<string>1895</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{77, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 141}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1895, 2}, {77, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 20}, {74, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -5}</string>
+			<key>spriteSizeX</key>
+			<string>74</string>
+			<key>spriteSizeY</key>
+			<string>140</string>
+			<key>spritePosX</key>
+			<string>1573</string>
+			<key>spritePosY</key>
+			<string>446</string>
+			<key>spriteSize</key>
+			<string>{74, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1573, 446}, {74, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {72, 141}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>72</string>
+			<key>spriteSizeY</key>
+			<string>141</string>
+			<key>spritePosX</key>
+			<string>142</string>
+			<key>spritePosY</key>
+			<string>1702</string>
+			<key>spriteSize</key>
+			<string>{72, 141}</string>
+			<key>spriteSourceSize</key>
+			<string>{74, 141}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{142, 1702}, {72, 141}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 20}, {72, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -5}</string>
+			<key>spriteSizeX</key>
+			<string>72</string>
+			<key>spriteSizeY</key>
+			<string>140</string>
+			<key>spritePosX</key>
+			<string>1643</string>
+			<key>spritePosY</key>
+			<string>150</string>
+			<key>spriteSize</key>
+			<string>{72, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1643, 150}, {72, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 3}, {77, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>77</string>
+			<key>spriteSizeY</key>
+			<string>137</string>
+			<key>spritePosX</key>
+			<string>1816</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{77, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 141}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1816, 2}, {77, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 21}, {84, 135}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSizeX</key>
+			<string>84</string>
+			<key>spriteSizeY</key>
+			<string>135</string>
+			<key>spritePosX</key>
+			<string>1424</string>
+			<key>spritePosY</key>
+			<string>894</string>
+			<key>spriteSize</key>
+			<string>{84, 135}</string>
+			<key>spriteSourceSize</key>
+			<string>{110, 167}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1424, 894}, {84, 135}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 7}, {89, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>89</string>
+			<key>spriteSizeY</key>
+			<string>130</string>
+			<key>spritePosX</key>
+			<string>1191</string>
+			<key>spritePosY</key>
+			<string>1395</string>
+			<key>spriteSize</key>
+			<string>{89, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 144}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1191, 1395}, {89, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 11}, {102, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSizeX</key>
+			<string>102</string>
+			<key>spriteSizeY</key>
+			<string>124</string>
+			<key>spritePosX</key>
+			<string>1649</string>
+			<key>spritePosY</key>
+			<string>432</string>
+			<key>spriteSize</key>
+			<string>{102, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 142}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1649, 432}, {102, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 15}, {113, 109}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSizeX</key>
+			<string>113</string>
+			<key>spriteSizeY</key>
+			<string>109</string>
+			<key>spritePosX</key>
+			<string>1763</string>
+			<key>spritePosY</key>
+			<string>408</string>
+			<key>spriteSize</key>
+			<string>{113, 109}</string>
+			<key>spriteSourceSize</key>
+			<string>{139, 135}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1763, 408}, {113, 109}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 14}, {122, 97}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>122</string>
+			<key>spriteSizeY</key>
+			<string>97</string>
+			<key>spritePosX</key>
+			<string>1876</string>
+			<key>spritePosY</key>
+			<string>222</string>
+			<key>spriteSize</key>
+			<string>{122, 97}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 123}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1876, 222}, {122, 97}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 15}, {134, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -4}</string>
+			<key>spriteSizeX</key>
+			<string>134</string>
+			<key>spriteSizeY</key>
+			<string>88</string>
+			<key>spritePosX</key>
+			<string>912</string>
+			<key>spritePosY</key>
+			<string>1336</string>
+			<key>spriteSize</key>
+			<string>{134, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 110}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{912, 1336}, {134, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 14}, {139, 75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSizeX</key>
+			<string>139</string>
+			<key>spriteSizeY</key>
+			<string>75</string>
+			<key>spritePosX</key>
+			<string>427</string>
+			<key>spritePosY</key>
+			<string>887</string>
+			<key>spriteSize</key>
+			<string>{139, 75}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 97}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{427, 887}, {139, 75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>piggy_03_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 12}, {142, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -6}</string>
+			<key>spriteSizeX</key>
+			<string>142</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>768</string>
+			<key>spritePosY</key>
+			<string>1356</string>
+			<key>spriteSize</key>
+			<string>{142, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 82}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{768, 1356}, {142, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 94}, {156, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 9}</string>
+			<key>spriteSizeX</key>
+			<string>156</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1290</string>
+			<key>spriteSize</key>
+			<string>{156, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1290}, {156, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{69, 101}, {152, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 2}</string>
+			<key>spriteSizeX</key>
+			<string>152</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1362</string>
+			<key>spriteSize</key>
+			<string>{152, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1362}, {152, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 93}, {146, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 3}</string>
+			<key>spriteSizeX</key>
+			<string>146</string>
+			<key>spriteSizeY</key>
+			<string>84</string>
+			<key>spritePosX</key>
+			<string>138</string>
+			<key>spritePosY</key>
+			<string>708</string>
+			<key>spriteSize</key>
+			<string>{146, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{138, 708}, {146, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{74, 82}, {138, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 6}</string>
+			<key>spriteSizeX</key>
+			<string>138</string>
+			<key>spriteSizeY</key>
+			<string>100</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1610</string>
+			<key>spriteSize</key>
+			<string>{138, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1610}, {138, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{76, 72}, {128, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 10}</string>
+			<key>spriteSizeX</key>
+			<string>128</string>
+			<key>spriteSizeY</key>
+			<string>112</string>
+			<key>spritePosX</key>
+			<string>892</string>
+			<key>spritePosY</key>
+			<string>1518</string>
+			<key>spriteSize</key>
+			<string>{128, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{892, 1518}, {128, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{79, 63}, {116, 126}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSizeX</key>
+			<string>116</string>
+			<key>spriteSizeY</key>
+			<string>126</string>
+			<key>spritePosX</key>
+			<string>168</string>
+			<key>spritePosY</key>
+			<string>794</string>
+			<key>spriteSize</key>
+			<string>{116, 126}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{168, 794}, {116, 126}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{83, 55}, {102, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 13}</string>
+			<key>spriteSizeX</key>
+			<string>102</string>
+			<key>spriteSizeY</key>
+			<string>140</string>
+			<key>spritePosX</key>
+			<string>802</string>
+			<key>spritePosY</key>
+			<string>1214</string>
+			<key>spriteSize</key>
+			<string>{102, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{802, 1214}, {102, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 52}, {92, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 12}</string>
+			<key>spriteSizeX</key>
+			<string>92</string>
+			<key>spriteSizeY</key>
+			<string>148</string>
+			<key>spritePosX</key>
+			<string>1423</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{92, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1423, 2}, {92, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 49}, {82, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 13}</string>
+			<key>spriteSizeX</key>
+			<string>82</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>1145</string>
+			<key>spritePosY</key>
+			<string>790</string>
+			<key>spriteSize</key>
+			<string>{82, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1145, 790}, {82, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 47}, {78, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 12}</string>
+			<key>spriteSizeX</key>
+			<string>78</string>
+			<key>spriteSizeY</key>
+			<string>158</string>
+			<key>spritePosX</key>
+			<string>910</string>
+			<key>spritePosY</key>
+			<string>986</string>
+			<key>spriteSize</key>
+			<string>{78, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 986}, {78, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{99, 46}, {81, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 11}</string>
+			<key>spriteSizeX</key>
+			<string>81</string>
+			<key>spriteSizeY</key>
+			<string>162</string>
+			<key>spritePosX</key>
+			<string>893</string>
+			<key>spritePosY</key>
+			<string>672</string>
+			<key>spriteSize</key>
+			<string>{81, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{277, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 672}, {81, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 52}, {80, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 13}</string>
+			<key>spriteSizeX</key>
+			<string>80</string>
+			<key>spriteSizeY</key>
+			<string>146</string>
+			<key>spritePosX</key>
+			<string>1318</string>
+			<key>spritePosY</key>
+			<string>772</string>
+			<key>spriteSize</key>
+			<string>{80, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1318, 772}, {80, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{104, 50}, {84, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 12}</string>
+			<key>spriteSizeX</key>
+			<string>84</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>1145</string>
+			<key>spritePosY</key>
+			<string>636</string>
+			<key>spriteSize</key>
+			<string>{84, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1145, 636}, {84, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{98, 52}, {92, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 12}</string>
+			<key>spriteSizeX</key>
+			<string>92</string>
+			<key>spriteSizeY</key>
+			<string>148</string>
+			<key>spritePosX</key>
+			<string>1423</string>
+			<key>spritePosY</key>
+			<string>152</string>
+			<key>spriteSize</key>
+			<string>{92, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1423, 152}, {92, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 55}, {104, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 13}</string>
+			<key>spriteSizeX</key>
+			<string>104</string>
+			<key>spriteSizeY</key>
+			<string>140</string>
+			<key>spritePosX</key>
+			<string>1496</string>
+			<key>spritePosY</key>
+			<string>598</string>
+			<key>spriteSize</key>
+			<string>{104, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1496, 598}, {104, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{81, 63}, {118, 126}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 12}</string>
+			<key>spriteSizeX</key>
+			<string>118</string>
+			<key>spriteSizeY</key>
+			<string>126</string>
+			<key>spritePosX</key>
+			<string>1528</string>
+			<key>spritePosY</key>
+			<string>740</string>
+			<key>spriteSize</key>
+			<string>{118, 126}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1528, 740}, {118, 126}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 72}, {130, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 11}</string>
+			<key>spriteSizeX</key>
+			<string>130</string>
+			<key>spriteSizeY</key>
+			<string>110</string>
+			<key>spritePosX</key>
+			<string>1287</string>
+			<key>spritePosY</key>
+			<string>1225</string>
+			<key>spriteSize</key>
+			<string>{130, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1287, 1225}, {130, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{64, 82}, {140, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 8}</string>
+			<key>spriteSizeX</key>
+			<string>140</string>
+			<key>spriteSizeY</key>
+			<string>96</string>
+			<key>spritePosX</key>
+			<string>295</string>
+			<key>spritePosY</key>
+			<string>1553</string>
+			<key>spriteSize</key>
+			<string>{140, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 1553}, {140, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{59, 92}, {146, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 5}</string>
+			<key>spriteSizeX</key>
+			<string>146</string>
+			<key>spriteSizeY</key>
+			<string>82</string>
+			<key>spritePosX</key>
+			<string>452</string>
+			<key>spritePosY</key>
+			<string>761</string>
+			<key>spriteSize</key>
+			<string>{146, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 761}, {146, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{55, 97}, {152, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 5}</string>
+			<key>spriteSizeX</key>
+			<string>152</string>
+			<key>spriteSizeY</key>
+			<string>72</string>
+			<key>spritePosX</key>
+			<string>160</string>
+			<key>spritePosY</key>
+			<string>1354</string>
+			<key>spriteSize</key>
+			<string>{152, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{160, 1354}, {152, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_01_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{54, 92}, {156, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 10}</string>
+			<key>spriteSizeX</key>
+			<string>156</string>
+			<key>spriteSizeY</key>
+			<string>72</string>
+			<key>spritePosX</key>
+			<string>162</string>
+			<key>spritePosY</key>
+			<string>1280</string>
+			<key>spriteSize</key>
+			<string>{156, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{162, 1280}, {156, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 95}, {162, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 10}</string>
+			<key>spriteSizeX</key>
+			<string>162</string>
+			<key>spriteSizeY</key>
+			<string>66</string>
+			<key>spritePosX</key>
+			<string>166</string>
+			<key>spritePosY</key>
+			<string>1036</string>
+			<key>spriteSize</key>
+			<string>{162, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 1036}, {162, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 99}, {160, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 3}</string>
+			<key>spriteSizeX</key>
+			<string>160</string>
+			<key>spriteSizeY</key>
+			<string>72</string>
+			<key>spritePosX</key>
+			<string>166</string>
+			<key>spritePosY</key>
+			<string>1104</string>
+			<key>spriteSize</key>
+			<string>{160, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 1104}, {160, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{69, 88}, {154, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 5}</string>
+			<key>spriteSizeX</key>
+			<string>154</string>
+			<key>spriteSizeY</key>
+			<string>90</string>
+			<key>spritePosX</key>
+			<string>286</string>
+			<key>spritePosY</key>
+			<string>540</string>
+			<key>spriteSize</key>
+			<string>{154, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 540}, {154, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 77}, {144, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 7}</string>
+			<key>spriteSizeX</key>
+			<string>144</string>
+			<key>spriteSizeY</key>
+			<string>108</string>
+			<key>spritePosX</key>
+			<string>140</string>
+			<key>spritePosY</key>
+			<string>366</string>
+			<key>spriteSize</key>
+			<string>{144, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 366}, {144, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{76, 65}, {132, 126}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 10}</string>
+			<key>spriteSizeX</key>
+			<string>132</string>
+			<key>spriteSizeY</key>
+			<string>126</string>
+			<key>spritePosX</key>
+			<string>437</string>
+			<key>spritePosY</key>
+			<string>1553</string>
+			<key>spriteSize</key>
+			<string>{132, 126}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{437, 1553}, {132, 126}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{80, 56}, {118, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 13}</string>
+			<key>spriteSizeX</key>
+			<string>118</string>
+			<key>spriteSizeY</key>
+			<string>138</string>
+			<key>spritePosX</key>
+			<string>1643</string>
+			<key>spritePosY</key>
+			<string>292</string>
+			<key>spriteSize</key>
+			<string>{118, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1643, 292}, {118, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 48}, {98, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 16}</string>
+			<key>spriteSizeX</key>
+			<string>98</string>
+			<key>spriteSizeY</key>
+			<string>148</string>
+			<key>spritePosX</key>
+			<string>1351</string>
+			<key>spritePosY</key>
+			<string>306</string>
+			<key>spriteSize</key>
+			<string>{98, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1351, 306}, {98, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{93, 45}, {88, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 17}</string>
+			<key>spriteSizeX</key>
+			<string>88</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>1056</string>
+			<key>spritePosY</key>
+			<string>1146</string>
+			<key>spriteSize</key>
+			<string>{88, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1056, 1146}, {88, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{97, 42}, {78, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 17}</string>
+			<key>spriteSizeX</key>
+			<string>78</string>
+			<key>spriteSizeY</key>
+			<string>158</string>
+			<key>spritePosX</key>
+			<string>990</string>
+			<key>spritePosY</key>
+			<string>986</string>
+			<key>spriteSize</key>
+			<string>{78, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 986}, {78, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 40}, {68, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 17}</string>
+			<key>spriteSizeX</key>
+			<string>68</string>
+			<key>spriteSizeY</key>
+			<string>162</string>
+			<key>spritePosX</key>
+			<string>915</string>
+			<key>spritePosY</key>
+			<string>502</string>
+			<key>spriteSize</key>
+			<string>{68, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{915, 502}, {68, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{107, 39}, {65, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>65</string>
+			<key>spriteSizeY</key>
+			<string>168</string>
+			<key>spritePosX</key>
+			<string>749</string>
+			<key>spritePosY</key>
+			<string>344</string>
+			<key>spriteSize</key>
+			<string>{65, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{277, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{749, 344}, {65, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{105, 44}, {70, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 18}</string>
+			<key>spriteSizeX</key>
+			<string>70</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>1181</string>
+			<key>spritePosY</key>
+			<string>944</string>
+			<key>spriteSize</key>
+			<string>{70, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1181, 944}, {70, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 42}, {80, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 17}</string>
+			<key>spriteSizeX</key>
+			<string>80</string>
+			<key>spriteSizeY</key>
+			<string>158</string>
+			<key>spritePosX</key>
+			<string>985</string>
+			<key>spritePosY</key>
+			<string>654</string>
+			<key>spriteSize</key>
+			<string>{80, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{985, 654}, {80, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 45}, {90, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 17}</string>
+			<key>spriteSizeX</key>
+			<string>90</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>1013</string>
+			<key>spritePosY</key>
+			<string>814</string>
+			<key>spriteSize</key>
+			<string>{90, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1013, 814}, {90, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 48}, {100, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 15}</string>
+			<key>spriteSizeX</key>
+			<string>100</string>
+			<key>spriteSizeY</key>
+			<string>150</string>
+			<key>spritePosX</key>
+			<string>1249</string>
+			<key>spritePosY</key>
+			<string>320</string>
+			<key>spriteSize</key>
+			<string>{100, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1249, 320}, {100, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{78, 56}, {122, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 13}</string>
+			<key>spriteSizeX</key>
+			<string>122</string>
+			<key>spriteSizeY</key>
+			<string>138</string>
+			<key>spritePosX</key>
+			<string>625</string>
+			<key>spritePosY</key>
+			<string>344</string>
+			<key>spriteSize</key>
+			<string>{122, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{625, 344}, {122, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{68, 66}, {134, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 10}</string>
+			<key>spriteSizeX</key>
+			<string>134</string>
+			<key>spriteSizeY</key>
+			<string>124</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>686</string>
+			<key>spriteSize</key>
+			<string>{134, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 686}, {134, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{60, 77}, {146, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 8}</string>
+			<key>spriteSizeX</key>
+			<string>146</string>
+			<key>spriteSizeY</key>
+			<string>106</string>
+			<key>spritePosX</key>
+			<string>138</string>
+			<key>spritePosY</key>
+			<string>600</string>
+			<key>spriteSize</key>
+			<string>{146, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{138, 600}, {146, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{54, 88}, {156, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 7}</string>
+			<key>spriteSizeX</key>
+			<string>156</string>
+			<key>spriteSizeY</key>
+			<string>86</string>
+			<key>spritePosX</key>
+			<string>644</string>
+			<key>spritePosY</key>
+			<string>1195</string>
+			<key>spriteSize</key>
+			<string>{156, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{644, 1195}, {156, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 99}, {160, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 4}</string>
+			<key>spriteSizeX</key>
+			<string>160</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>328</string>
+			<key>spritePosY</key>
+			<string>1104</string>
+			<key>spriteSize</key>
+			<string>{160, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 1104}, {160, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_02_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 92}, {162, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 11}</string>
+			<key>spriteSizeX</key>
+			<string>162</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>166</string>
+			<key>spritePosY</key>
+			<string>964</string>
+			<key>spriteSize</key>
+			<string>{162, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 964}, {162, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{68, 98}, {164, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 7}</string>
+			<key>spriteSizeX</key>
+			<string>164</string>
+			<key>spriteSizeY</key>
+			<string>66</string>
+			<key>spritePosX</key>
+			<string>286</string>
+			<key>spritePosY</key>
+			<string>819</string>
+			<key>spriteSize</key>
+			<string>{164, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 819}, {164, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{69, 90}, {162, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 7}</string>
+			<key>spriteSizeX</key>
+			<string>162</string>
+			<key>spriteSizeY</key>
+			<string>82</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>964</string>
+			<key>spriteSize</key>
+			<string>{162, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 964}, {162, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{70, 78}, {158, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 10}</string>
+			<key>spriteSizeX</key>
+			<string>158</string>
+			<key>spriteSizeY</key>
+			<string>100</string>
+			<key>spritePosX</key>
+			<string>164</string>
+			<key>spritePosY</key>
+			<string>1178</string>
+			<key>spriteSize</key>
+			<string>{158, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 1178}, {158, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{73, 65}, {148, 120}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 13}</string>
+			<key>spriteSizeX</key>
+			<string>148</string>
+			<key>spriteSizeY</key>
+			<string>120</string>
+			<key>spritePosX</key>
+			<string>600</string>
+			<key>spritePosY</key>
+			<string>995</string>
+			<key>spriteSize</key>
+			<string>{148, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{600, 995}, {148, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{79, 55}, {134, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 16}</string>
+			<key>spriteSizeX</key>
+			<string>134</string>
+			<key>spriteSizeY</key>
+			<string>134</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>414</string>
+			<key>spriteSize</key>
+			<string>{134, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 414}, {134, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{84, 45}, {118, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 19}</string>
+			<key>spriteSizeX</key>
+			<string>118</string>
+			<key>spriteSizeY</key>
+			<string>148</string>
+			<key>spritePosX</key>
+			<string>893</string>
+			<key>spritePosY</key>
+			<string>836</string>
+			<key>spriteSize</key>
+			<string>{118, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 836}, {118, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{92, 37}, {98, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 22}</string>
+			<key>spriteSizeX</key>
+			<string>98</string>
+			<key>spriteSizeY</key>
+			<string>158</string>
+			<key>spritePosX</key>
+			<string>1077</string>
+			<key>spritePosY</key>
+			<string>164</string>
+			<key>spriteSize</key>
+			<string>{98, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1077, 164}, {98, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{98, 34}, {84, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 22}</string>
+			<key>spriteSizeX</key>
+			<string>84</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>745</string>
+			<key>spritePosY</key>
+			<string>514</string>
+			<key>spriteSize</key>
+			<string>{84, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{745, 514}, {84, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 31}, {72, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 23}</string>
+			<key>spriteSizeX</key>
+			<string>72</string>
+			<key>spriteSizeY</key>
+			<string>168</string>
+			<key>spritePosX</key>
+			<string>676</string>
+			<key>spritePosY</key>
+			<string>825</string>
+			<key>spriteSize</key>
+			<string>{72, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 825}, {72, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{109, 30}, {62, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 23}</string>
+			<key>spriteSizeX</key>
+			<string>62</string>
+			<key>spriteSizeY</key>
+			<string>170</string>
+			<key>spritePosX</key>
+			<string>628</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{62, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 2}, {62, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{107, 29}, {63, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 22}</string>
+			<key>spriteSizeX</key>
+			<string>63</string>
+			<key>spriteSizeY</key>
+			<string>174</string>
+			<key>spritePosX</key>
+			<string>158</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{63, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{277, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{158, 2}, {63, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{105, 31}, {64, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 26}</string>
+			<key>spriteSizeX</key>
+			<string>64</string>
+			<key>spriteSizeY</key>
+			<string>162</string>
+			<key>spritePosX</key>
+			<string>1011</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{64, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1011, 2}, {64, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{102, 32}, {74, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 22}</string>
+			<key>spriteSizeX</key>
+			<string>74</string>
+			<key>spriteSizeY</key>
+			<string>168</string>
+			<key>spritePosX</key>
+			<string>669</string>
+			<key>spritePosY</key>
+			<string>484</string>
+			<key>spriteSize</key>
+			<string>{74, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{669, 484}, {74, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{95, 34}, {84, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 22}</string>
+			<key>spriteSizeX</key>
+			<string>84</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>816</string>
+			<key>spritePosY</key>
+			<string>340</string>
+			<key>spriteSize</key>
+			<string>{84, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{816, 340}, {84, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 37}, {98, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 21}</string>
+			<key>spriteSizeX</key>
+			<string>98</string>
+			<key>spriteSizeY</key>
+			<string>160</string>
+			<key>spritePosX</key>
+			<string>985</string>
+			<key>spritePosY</key>
+			<string>492</string>
+			<key>spriteSize</key>
+			<string>{98, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{985, 492}, {98, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{76, 45}, {118, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 19}</string>
+			<key>spriteSizeX</key>
+			<string>118</string>
+			<key>spriteSizeY</key>
+			<string>148</string>
+			<key>spritePosX</key>
+			<string>1146</string>
+			<key>spritePosY</key>
+			<string>1098</string>
+			<key>spriteSize</key>
+			<string>{118, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1146, 1098}, {118, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{65, 55}, {134, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 16}</string>
+			<key>spriteSizeX</key>
+			<string>134</string>
+			<key>spriteSizeY</key>
+			<string>134</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>550</string>
+			<key>spriteSize</key>
+			<string>{134, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 550}, {134, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{56, 66}, {148, 116}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 14}</string>
+			<key>spriteSizeX</key>
+			<string>148</string>
+			<key>spriteSizeY</key>
+			<string>116</string>
+			<key>spritePosX</key>
+			<string>618</string>
+			<key>spritePosY</key>
+			<string>1343</string>
+			<key>spriteSize</key>
+			<string>{148, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{618, 1343}, {148, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{49, 78}, {158, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 11}</string>
+			<key>spriteSizeX</key>
+			<string>158</string>
+			<key>spriteSizeY</key>
+			<string>98</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1190</string>
+			<key>spriteSize</key>
+			<string>{158, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1190}, {158, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 90}, {164, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 8}</string>
+			<key>spriteSizeX</key>
+			<string>164</string>
+			<key>spriteSizeY</key>
+			<string>80</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>812</string>
+			<key>spriteSize</key>
+			<string>{164, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 812}, {164, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_03_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{44, 94}, {164, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 10}</string>
+			<key>spriteSizeX</key>
+			<string>164</string>
+			<key>spriteSizeY</key>
+			<string>68</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>894</string>
+			<key>spriteSize</key>
+			<string>{164, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 894}, {164, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{74, 97}, {160, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 7}</string>
+			<key>spriteSizeX</key>
+			<string>160</string>
+			<key>spriteSizeY</key>
+			<string>68</string>
+			<key>spritePosX</key>
+			<string>490</string>
+			<key>spritePosY</key>
+			<string>1118</string>
+			<key>spriteSize</key>
+			<string>{160, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{490, 1118}, {160, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{75, 85}, {158, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 9}</string>
+			<key>spriteSizeX</key>
+			<string>158</string>
+			<key>spriteSizeY</key>
+			<string>88</string>
+			<key>spritePosX</key>
+			<string>324</string>
+			<key>spritePosY</key>
+			<string>1178</string>
+			<key>spriteSize</key>
+			<string>{158, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{324, 1178}, {158, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{74, 73}, {154, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 12}</string>
+			<key>spriteSizeX</key>
+			<string>154</string>
+			<key>spriteSizeY</key>
+			<string>106</string>
+			<key>spritePosX</key>
+			<string>286</string>
+			<key>spritePosY</key>
+			<string>632</string>
+			<key>spriteSize</key>
+			<string>{154, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 632}, {154, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{75, 60}, {146, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 17}</string>
+			<key>spriteSizeX</key>
+			<string>146</string>
+			<key>spriteSizeY</key>
+			<string>122</string>
+			<key>spritePosX</key>
+			<string>138</string>
+			<key>spritePosY</key>
+			<string>476</string>
+			<key>spriteSize</key>
+			<string>{146, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{138, 476}, {146, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{77, 49}, {136, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 21}</string>
+			<key>spriteSizeX</key>
+			<string>136</string>
+			<key>spriteSizeY</key>
+			<string>136</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>184</string>
+			<key>spriteSize</key>
+			<string>{136, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 184}, {136, 136}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{79, 41}, {124, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 24}</string>
+			<key>spriteSizeX</key>
+			<string>124</string>
+			<key>spriteSizeY</key>
+			<string>146</string>
+			<key>spritePosX</key>
+			<string>1596</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{124, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1596, 2}, {124, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{84, 31}, {106, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 29}</string>
+			<key>spriteSizeX</key>
+			<string>106</string>
+			<key>spriteSizeY</key>
+			<string>156</string>
+			<key>spritePosX</key>
+			<string>1177</string>
+			<key>spritePosY</key>
+			<string>162</string>
+			<key>spriteSize</key>
+			<string>{106, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1177, 162}, {106, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 29}, {94, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 28}</string>
+			<key>spriteSizeX</key>
+			<string>94</string>
+			<key>spriteSizeY</key>
+			<string>162</string>
+			<key>spritePosX</key>
+			<string>750</string>
+			<key>spritePosY</key>
+			<string>822</string>
+			<key>spriteSize</key>
+			<string>{94, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 822}, {94, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{93, 28}, {82, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 28}</string>
+			<key>spriteSizeX</key>
+			<string>82</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>831</string>
+			<key>spritePosY</key>
+			<string>506</string>
+			<key>spriteSize</key>
+			<string>{82, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{831, 506}, {82, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 25}, {76, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 28}</string>
+			<key>spriteSizeX</key>
+			<string>76</string>
+			<key>spriteSizeY</key>
+			<string>170</string>
+			<key>spritePosX</key>
+			<string>547</string>
+			<key>spritePosY</key>
+			<string>175</string>
+			<key>spriteSize</key>
+			<string>{76, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{547, 175}, {76, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{101, 27}, {79, 172}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 25}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>172</string>
+			<key>spritePosX</key>
+			<string>223</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{79, 172}</string>
+			<key>spriteSourceSize</key>
+			<string>{277, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{223, 2}, {79, 172}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{105, 24}, {76, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 32}</string>
+			<key>spriteSizeX</key>
+			<string>76</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>907</string>
+			<key>spritePosY</key>
+			<string>336</string>
+			<key>spriteSize</key>
+			<string>{76, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{907, 336}, {76, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{100, 27}, {88, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 28}</string>
+			<key>spriteSizeX</key>
+			<string>88</string>
+			<key>spriteSizeY</key>
+			<string>166</string>
+			<key>spritePosX</key>
+			<string>837</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{88, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{837, 2}, {88, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{94, 31}, {96, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 27}</string>
+			<key>spriteSizeX</key>
+			<string>96</string>
+			<key>spriteSizeY</key>
+			<string>160</string>
+			<key>spritePosX</key>
+			<string>1077</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{96, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1077, 2}, {96, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 32}, {108, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 28}</string>
+			<key>spriteSizeX</key>
+			<string>108</string>
+			<key>spriteSizeY</key>
+			<string>156</string>
+			<key>spritePosX</key>
+			<string>1139</string>
+			<key>spritePosY</key>
+			<string>324</string>
+			<key>spriteSize</key>
+			<string>{108, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1139, 324}, {108, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{75, 40}, {124, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 25}</string>
+			<key>spriteSizeX</key>
+			<string>124</string>
+			<key>spriteSizeY</key>
+			<string>146</string>
+			<key>spritePosX</key>
+			<string>1517</string>
+			<key>spritePosY</key>
+			<string>151</string>
+			<key>spriteSize</key>
+			<string>{124, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1517, 151}, {124, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{64, 51}, {138, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 20}</string>
+			<key>spriteSizeX</key>
+			<string>138</string>
+			<key>spriteSizeY</key>
+			<string>134</string>
+			<key>spritePosX</key>
+			<string>361</string>
+			<key>spritePosY</key>
+			<string>348</string>
+			<key>spriteSize</key>
+			<string>{138, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{361, 348}, {138, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{53, 61}, {150, 120}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 17}</string>
+			<key>spriteSizeX</key>
+			<string>150</string>
+			<key>spriteSizeY</key>
+			<string>120</string>
+			<key>spritePosX</key>
+			<string>314</string>
+			<key>spritePosY</key>
+			<string>1355</string>
+			<key>spriteSize</key>
+			<string>{150, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{314, 1355}, {150, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{47, 73}, {156, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, 14}</string>
+			<key>spriteSizeX</key>
+			<string>156</string>
+			<key>spriteSizeY</key>
+			<string>102</string>
+			<key>spritePosX</key>
+			<string>442</string>
+			<key>spritePosY</key>
+			<string>657</string>
+			<key>spriteSize</key>
+			<string>{156, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{442, 657}, {156, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{44, 85}, {158, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, 10}</string>
+			<key>spriteSizeX</key>
+			<string>158</string>
+			<key>spriteSizeY</key>
+			<string>86</string>
+			<key>spritePosX</key>
+			<string>750</string>
+			<key>spritePosY</key>
+			<string>986</string>
+			<key>spriteSize</key>
+			<string>{158, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 986}, {158, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_04_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 96}, {160, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, 7}</string>
+			<key>spriteSizeX</key>
+			<string>160</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1118</string>
+			<key>spriteSize</key>
+			<string>{160, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1118}, {160, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{70, 95}, {162, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 9}</string>
+			<key>spriteSizeX</key>
+			<string>162</string>
+			<key>spriteSizeY</key>
+			<string>68</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1048</string>
+			<key>spriteSize</key>
+			<string>{162, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1048}, {162, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{73, 92}, {158, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{14, 8}</string>
+			<key>spriteSizeX</key>
+			<string>158</string>
+			<key>spriteSizeY</key>
+			<string>76</string>
+			<key>spritePosX</key>
+			<string>484</string>
+			<key>spritePosY</key>
+			<string>1188</string>
+			<key>spriteSize</key>
+			<string>{158, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{484, 1188}, {158, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{77, 80}, {150, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{14, 12}</string>
+			<key>spriteSizeX</key>
+			<string>150</string>
+			<key>spriteSizeY</key>
+			<string>92</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1434</string>
+			<key>spriteSize</key>
+			<string>{150, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1434}, {150, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{79, 68}, {140, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 16}</string>
+			<key>spriteSizeX</key>
+			<string>140</string>
+			<key>spriteSizeY</key>
+			<string>108</string>
+			<key>spritePosX</key>
+			<string>616</string>
+			<key>spritePosY</key>
+			<string>1461</string>
+			<key>spriteSize</key>
+			<string>{140, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 1461}, {140, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{80, 57}, {132, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 19}</string>
+			<key>spriteSizeX</key>
+			<string>132</string>
+			<key>spriteSizeY</key>
+			<string>124</string>
+			<key>spritePosX</key>
+			<string>281</string>
+			<key>spritePosY</key>
+			<string>1651</string>
+			<key>spriteSize</key>
+			<string>{132, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{281, 1651}, {132, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{82, 47}, {120, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 21}</string>
+			<key>spriteSizeX</key>
+			<string>120</string>
+			<key>spriteSizeY</key>
+			<string>140</string>
+			<key>spritePosX</key>
+			<string>745</string>
+			<key>spritePosY</key>
+			<string>680</string>
+			<key>spriteSize</key>
+			<string>{120, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{745, 680}, {120, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 39}, {104, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 23}</string>
+			<key>spriteSizeX</key>
+			<string>104</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>494</string>
+			<key>spritePosY</key>
+			<string>964</string>
+			<key>spriteSize</key>
+			<string>{104, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{494, 964}, {104, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_07b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 36}, {92, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 23}</string>
+			<key>spriteSizeX</key>
+			<string>92</string>
+			<key>spriteSizeY</key>
+			<string>158</string>
+			<key>spritePosX</key>
+			<string>1045</string>
+			<key>spritePosY</key>
+			<string>324</string>
+			<key>spriteSize</key>
+			<string>{92, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1045, 324}, {92, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{94, 33}, {82, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 23}</string>
+			<key>spriteSizeX</key>
+			<string>82</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>907</string>
+			<key>spritePosY</key>
+			<string>170</string>
+			<key>spriteSize</key>
+			<string>{82, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{907, 170}, {82, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_08b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{98, 31}, {74, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 23}</string>
+			<key>spriteSizeX</key>
+			<string>74</string>
+			<key>spriteSizeY</key>
+			<string>168</string>
+			<key>spritePosX</key>
+			<string>600</string>
+			<key>spritePosY</key>
+			<string>825</string>
+			<key>spriteSize</key>
+			<string>{74, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{600, 825}, {74, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 30}, {73, 172}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 22}</string>
+			<key>spriteSizeX</key>
+			<string>73</string>
+			<key>spriteSizeY</key>
+			<string>172</string>
+			<key>spritePosX</key>
+			<string>286</string>
+			<key>spritePosY</key>
+			<string>366</string>
+			<key>spriteSize</key>
+			<string>{73, 172}</string>
+			<key>spriteSourceSize</key>
+			<string>{277, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 366}, {73, 172}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_09b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{106, 33}, {76, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 26}</string>
+			<key>spriteSizeX</key>
+			<string>76</string>
+			<key>spriteSizeY</key>
+			<string>158</string>
+			<key>spritePosX</key>
+			<string>1067</string>
+			<key>spritePosY</key>
+			<string>654</string>
+			<key>spriteSize</key>
+			<string>{76, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1067, 654}, {76, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 34}, {82, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 22}</string>
+			<key>spriteSizeX</key>
+			<string>82</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>927</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{82, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{927, 2}, {82, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_10b.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 36}, {92, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 23}</string>
+			<key>spriteSizeX</key>
+			<string>92</string>
+			<key>spriteSizeY</key>
+			<string>158</string>
+			<key>spritePosX</key>
+			<string>1175</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{92, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1175, 2}, {92, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 39}, {102, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 23}</string>
+			<key>spriteSizeX</key>
+			<string>102</string>
+			<key>spriteSizeY</key>
+			<string>152</string>
+			<key>spritePosX</key>
+			<string>1139</string>
+			<key>spritePosY</key>
+			<string>482</string>
+			<key>spriteSize</key>
+			<string>{102, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1139, 482}, {102, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{77, 46}, {118, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 22}</string>
+			<key>spriteSizeX</key>
+			<string>118</string>
+			<key>spriteSizeY</key>
+			<string>140</string>
+			<key>spritePosX</key>
+			<string>1408</string>
+			<key>spritePosY</key>
+			<string>752</string>
+			<key>spriteSize</key>
+			<string>{118, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1408, 752}, {118, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 56}, {132, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 20}</string>
+			<key>spriteSizeX</key>
+			<string>132</string>
+			<key>spriteSizeY</key>
+			<string>124</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>1712</string>
+			<key>spriteSize</key>
+			<string>{132, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1712}, {132, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{57, 67}, {142, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 18}</string>
+			<key>spriteSizeX</key>
+			<string>142</string>
+			<key>spriteSizeY</key>
+			<string>106</string>
+			<key>spritePosX</key>
+			<string>906</string>
+			<key>spritePosY</key>
+			<string>1228</string>
+			<key>spriteSize</key>
+			<string>{142, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{906, 1228}, {142, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 78}, {150, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, 15}</string>
+			<key>spriteSizeX</key>
+			<string>150</string>
+			<key>spriteSizeY</key>
+			<string>90</string>
+			<key>spritePosX</key>
+			<string>154</string>
+			<key>spritePosY</key>
+			<string>1434</string>
+			<key>spriteSize</key>
+			<string>{150, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 1434}, {150, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 90}, {158, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, 10}</string>
+			<key>spriteSizeX</key>
+			<string>158</string>
+			<key>spriteSizeY</key>
+			<string>76</string>
+			<key>spritePosX</key>
+			<string>652</string>
+			<key>spritePosY</key>
+			<string>1117</string>
+			<key>spriteSize</key>
+			<string>{158, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{652, 1117}, {158, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunRun_05_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 94}, {162, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 9}</string>
+			<key>spriteSizeX</key>
+			<string>162</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>330</string>
+			<key>spritePosY</key>
+			<string>964</string>
+			<key>spriteSize</key>
+			<string>{162, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 276}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{330, 964}, {162, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>466</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 2}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>442</string>
+			<key>spritePosY</key>
+			<string>484</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{442, 484}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>385</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{385, 2}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>385</string>
+			<key>spritePosY</key>
+			<string>175</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{385, 175}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>304</string>
+			<key>spritePosY</key>
+			<string>175</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{304, 175}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>304</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{304, 2}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>466</string>
+			<key>spritePosY</key>
+			<string>175</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 175}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>shaunXXBlink_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{112, 49}, {79, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSizeX</key>
+			<string>79</string>
+			<key>spriteSizeY</key>
+			<string>171</string>
+			<key>spritePosX</key>
+			<string>547</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{79, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{301, 299}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{547, 2}, {79, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x01_gate1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {123, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>123</string>
+			<key>spriteSizeY</key>
+			<string>59</string>
+			<key>spritePosX</key>
+			<string>330</string>
+			<key>spritePosY</key>
+			<string>1036</string>
+			<key>spriteSize</key>
+			<string>{123, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{123, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{330, 1036}, {123, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x02_gate1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {122, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>122</string>
+			<key>spriteSizeY</key>
+			<string>79</string>
+			<key>spritePosX</key>
+			<string>1841</string>
+			<key>spritePosY</key>
+			<string>141</string>
+			<key>spriteSize</key>
+			<string>{122, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{122, 79}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1841, 141}, {122, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x03_gate3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {113, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>113</string>
+			<key>spriteSizeY</key>
+			<string>114</string>
+			<key>spritePosX</key>
+			<string>1711</string>
+			<key>spritePosY</key>
+			<string>558</string>
+			<key>spriteSize</key>
+			<string>{113, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1711, 558}, {113, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x04_gate3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 147}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>77</string>
+			<key>spriteSizeY</key>
+			<string>147</string>
+			<key>spritePosX</key>
+			<string>1517</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{77, 147}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 147}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1517, 2}, {77, 147}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x05_gate3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 161}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>32</string>
+			<key>spriteSizeY</key>
+			<string>161</string>
+			<key>spritePosX</key>
+			<string>991</string>
+			<key>spritePosY</key>
+			<string>329</string>
+			<key>spriteSize</key>
+			<string>{32, 161}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 161}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{991, 329}, {32, 161}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x06_gate3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {11, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>11</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>880</string>
+			<key>spritePosY</key>
+			<string>672</string>
+			<key>spriteSize</key>
+			<string>{11, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{880, 672}, {11, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x07_gate1 copy copy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {123, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>123</string>
+			<key>spriteSizeY</key>
+			<string>59</string>
+			<key>spritePosX</key>
+			<string>1717</string>
+			<key>spritePosY</key>
+			<string>231</string>
+			<key>spriteSize</key>
+			<string>{123, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{123, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1717, 231}, {123, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x08_gate1 copy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {122, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>122</string>
+			<key>spriteSizeY</key>
+			<string>79</string>
+			<key>spritePosX</key>
+			<string>1717</string>
+			<key>spritePosY</key>
+			<string>150</string>
+			<key>spriteSize</key>
+			<string>{122, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{122, 79}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1717, 150}, {122, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x09_gate3 copy copy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {111, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>111</string>
+			<key>spriteSizeY</key>
+			<string>114</string>
+			<key>spritePosX</key>
+			<string>1763</string>
+			<key>spritePosY</key>
+			<string>292</string>
+			<key>spriteSize</key>
+			<string>{111, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1763, 292}, {111, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x10_gate3 copy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 147}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>77</string>
+			<key>spriteSizeY</key>
+			<string>147</string>
+			<key>spritePosX</key>
+			<string>1451</string>
+			<key>spritePosY</key>
+			<string>302</string>
+			<key>spriteSize</key>
+			<string>{77, 147}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 147}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1451, 302}, {77, 147}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x11_gate3 copy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 161}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>32</string>
+			<key>spriteSizeY</key>
+			<string>161</string>
+			<key>spritePosX</key>
+			<string>1011</string>
+			<key>spritePosY</key>
+			<string>166</string>
+			<key>spriteSize</key>
+			<string>{32, 161}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 161}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1011, 166}, {32, 161}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>x12_gate3 copy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {11, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>11</string>
+			<key>spriteSizeY</key>
+			<string>164</string>
+			<key>spritePosX</key>
+			<string>867</string>
+			<key>spritePosY</key>
+			<string>672</string>
+			<key>spriteSize</key>
+			<string>{11, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{867, 672}, {11, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+	</dict>
+</dict>
+</plist>

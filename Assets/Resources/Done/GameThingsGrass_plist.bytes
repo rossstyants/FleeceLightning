@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>gt01_flowers.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 7}, {72, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 1}</string>
+			<key>spriteSizeX</key>
+			<string>72</string>
+			<key>spriteSizeY</key>
+			<string>84</string>
+			<key>spritePosX</key>
+			<string>676</string>
+			<key>spritePosY</key>
+			<string>119</string>
+			<key>spriteSize</key>
+			<string>{72, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 119}, {72, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt02_flowersWithout.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 43}, {74, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -13}</string>
+			<key>spriteSizeX</key>
+			<string>74</string>
+			<key>spriteSizeY</key>
+			<string>40</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>371</string>
+			<key>spriteSize</key>
+			<string>{74, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 371}, {74, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt04_trafficCone.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {47, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>47</string>
+			<key>spriteSizeY</key>
+			<string>50</string>
+			<key>spritePosX</key>
+			<string>77</string>
+			<key>spritePosY</key>
+			<string>443</string>
+			<key>spriteSize</key>
+			<string>{47, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{47, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{77, 443}, {47, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt05_FlockRightRun_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 7}, {127, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 2}</string>
+			<key>spriteSizeX</key>
+			<string>127</string>
+			<key>spriteSizeY</key>
+			<string>82</string>
+			<key>spritePosX</key>
+			<string>131</string>
+			<key>spritePosY</key>
+			<string>216</string>
+			<key>spriteSize</key>
+			<string>{127, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{151, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{131, 216}, {127, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt05_FlockRightRun_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 7}, {127, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 2}</string>
+			<key>spriteSizeX</key>
+			<string>127</string>
+			<key>spriteSizeY</key>
+			<string>82</string>
+			<key>spritePosX</key>
+			<string>131</string>
+			<key>spritePosY</key>
+			<string>132</string>
+			<key>spriteSize</key>
+			<string>{127, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{151, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{131, 132}, {127, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt05_FlockRightRun_02_Blink.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 7}, {127, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 2}</string>
+			<key>spriteSizeX</key>
+			<string>127</string>
+			<key>spriteSizeY</key>
+			<string>82</string>
+			<key>spritePosX</key>
+			<string>392</string>
+			<key>spritePosY</key>
+			<string>124</string>
+			<key>spriteSize</key>
+			<string>{127, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{151, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{392, 124}, {127, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt05_FlockRightRun_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 7}, {127, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 2}</string>
+			<key>spriteSizeX</key>
+			<string>127</string>
+			<key>spriteSizeY</key>
+			<string>82</string>
+			<key>spritePosX</key>
+			<string>392</string>
+			<key>spritePosY</key>
+			<string>208</string>
+			<key>spriteSize</key>
+			<string>{127, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{151, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{392, 208}, {127, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt06_FlockLeftRun_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 28}, {127, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSizeX</key>
+			<string>127</string>
+			<key>spriteSizeY</key>
+			<string>83</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>132</string>
+			<key>spriteSize</key>
+			<string>{127, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 139}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 132}, {127, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt06_FlockLeftRun_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 28}, {129, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSizeX</key>
+			<string>129</string>
+			<key>spriteSizeY</key>
+			<string>83</string>
+			<key>spritePosX</key>
+			<string>545</string>
+			<key>spritePosY</key>
+			<string>87</string>
+			<key>spriteSize</key>
+			<string>{129, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 139}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{545, 87}, {129, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt06_FlockLeftRun_02_Blink.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 28}, {129, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSizeX</key>
+			<string>129</string>
+			<key>spriteSizeY</key>
+			<string>83</string>
+			<key>spritePosX</key>
+			<string>545</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{129, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 139}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{545, 2}, {129, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt06_FlockLeftRun_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 28}, {127, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSizeX</key>
+			<string>127</string>
+			<key>spriteSizeY</key>
+			<string>83</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>217</string>
+			<key>spriteSize</key>
+			<string>{127, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{143, 139}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 217}, {127, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt07_FlockDownCG_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 27}, {66, 120}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -9}</string>
+			<key>spriteSizeX</key>
+			<string>66</string>
+			<key>spriteSizeY</key>
+			<string>120</string>
+			<key>spritePosX</key>
+			<string>341</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{66, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{196, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{341, 2}, {66, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt08_FlockDownCG_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 27}, {66, 120}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -9}</string>
+			<key>spriteSizeX</key>
+			<string>66</string>
+			<key>spriteSizeY</key>
+			<string>120</string>
+			<key>spritePosX</key>
+			<string>477</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{66, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{196, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{477, 2}, {66, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt09_FlockDownCG_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 27}, {66, 120}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -9}</string>
+			<key>spriteSizeX</key>
+			<string>66</string>
+			<key>spriteSizeY</key>
+			<string>120</string>
+			<key>spritePosX</key>
+			<string>409</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{66, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{196, 156}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{409, 2}, {66, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt11_treetop1_withApples.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {128, 125}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSizeX</key>
+			<string>128</string>
+			<key>spriteSizeY</key>
+			<string>125</string>
+			<key>spritePosX</key>
+			<string>132</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{128, 125}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 133}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 2}, {128, 125}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt12_treetop2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {128, 109}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>128</string>
+			<key>spriteSizeY</key>
+			<string>109</string>
+			<key>spritePosX</key>
+			<string>262</string>
+			<key>spritePosY</key>
+			<string>125</string>
+			<key>spriteSize</key>
+			<string>{128, 109}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 109}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{262, 125}, {128, 109}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt13_rainbow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 10}, {124, 67}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSizeX</key>
+			<string>124</string>
+			<key>spriteSizeY</key>
+			<string>67</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>302</string>
+			<key>spriteSize</key>
+			<string>{124, 67}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 302}, {124, 67}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt14_appleShadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {13, 7}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>13</string>
+			<key>spriteSizeY</key>
+			<string>7</string>
+			<key>spritePosX</key>
+			<string>652</string>
+			<key>spritePosY</key>
+			<string>272</string>
+			<key>spriteSize</key>
+			<string>{13, 7}</string>
+			<key>spriteSourceSize</key>
+			<string>{13, 7}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{652, 272}, {13, 7}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt15_flowerHead1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {16, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>16</string>
+			<key>spriteSizeY</key>
+			<string>17</string>
+			<key>spritePosX</key>
+			<string>56</string>
+			<key>spritePosY</key>
+			<string>466</string>
+			<key>spriteSize</key>
+			<string>{16, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{16, 17}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 466}, {16, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt16_bushFragment1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {15, 15}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>15</string>
+			<key>spriteSizeY</key>
+			<string>15</string>
+			<key>spritePosX</key>
+			<string>56</string>
+			<key>spritePosY</key>
+			<string>485</string>
+			<key>spriteSize</key>
+			<string>{15, 15}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 15}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 485}, {15, 15}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt16_bushFragment2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {13, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>13</string>
+			<key>spriteSizeY</key>
+			<string>12</string>
+			<key>spritePosX</key>
+			<string>587</string>
+			<key>spritePosY</key>
+			<string>305</string>
+			<key>spriteSize</key>
+			<string>{13, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{13, 12}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{587, 305}, {13, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt27_footstep1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>32</string>
+			<key>spriteSizeY</key>
+			<string>30</string>
+			<key>spritePosX</key>
+			<string>717</string>
+			<key>spritePosY</key>
+			<string>205</string>
+			<key>spriteSize</key>
+			<string>{32, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{717, 205}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt28_footstep2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {33, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>33</string>
+			<key>spriteSizeY</key>
+			<string>30</string>
+			<key>spritePosX</key>
+			<string>212</string>
+			<key>spritePosY</key>
+			<string>377</string>
+			<key>spriteSize</key>
+			<string>{33, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{33, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 377}, {33, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt29_genericShadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {29, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>29</string>
+			<key>spriteSizeY</key>
+			<string>28</string>
+			<key>spritePosX</key>
+			<string>228</string>
+			<key>spritePosY</key>
+			<string>300</string>
+			<key>spriteSize</key>
+			<string>{29, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{43, 42}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 300}, {29, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt29_playerShadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {43, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>43</string>
+			<key>spriteSizeY</key>
+			<string>53</string>
+			<key>spritePosX</key>
+			<string>607</string>
+			<key>spritePosY</key>
+			<string>259</string>
+			<key>spriteSize</key>
+			<string>{43, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{43, 53}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{607, 259}, {43, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt30_cowShadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>61</string>
+			<key>spriteSizeY</key>
+			<string>34</string>
+			<key>spritePosX</key>
+			<string>318</string>
+			<key>spritePosY</key>
+			<string>356</string>
+			<key>spriteSize</key>
+			<string>{61, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 34}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{318, 356}, {61, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt31_flowerShadow1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>31</string>
+			<key>spriteSizeY</key>
+			<string>31</string>
+			<key>spritePosX</key>
+			<string>750</string>
+			<key>spritePosY</key>
+			<string>111</string>
+			<key>spriteSize</key>
+			<string>{31, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 31}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 111}, {31, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt32_flowerShadow2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {33, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>33</string>
+			<key>spriteSizeY</key>
+			<string>30</string>
+			<key>spritePosX</key>
+			<string>212</string>
+			<key>spritePosY</key>
+			<string>409</string>
+			<key>spriteSize</key>
+			<string>{33, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{33, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 409}, {33, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt33_flowerShadow3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>31</string>
+			<key>spriteSizeY</key>
+			<string>30</string>
+			<key>spritePosX</key>
+			<string>750</string>
+			<key>spritePosY</key>
+			<string>144</string>
+			<key>spriteSize</key>
+			<string>{31, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 144}, {31, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt34_flowerShadow4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>32</string>
+			<key>spriteSizeY</key>
+			<string>27</string>
+			<key>spritePosX</key>
+			<string>750</string>
+			<key>spritePosY</key>
+			<string>176</string>
+			<key>spriteSize</key>
+			<string>{32, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 176}, {32, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt35_flowerShadow5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>31</string>
+			<key>spriteSizeY</key>
+			<string>28</string>
+			<key>spritePosX</key>
+			<string>814</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{31, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 28}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 2}, {31, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt36_flowerShadow6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>31</string>
+			<key>spriteSizeY</key>
+			<string>30</string>
+			<key>spritePosX</key>
+			<string>783</string>
+			<key>spritePosY</key>
+			<string>108</string>
+			<key>spriteSize</key>
+			<string>{31, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{783, 108}, {31, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt37_flowerShadow7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>32</string>
+			<key>spriteSizeY</key>
+			<string>32</string>
+			<key>spritePosX</key>
+			<string>22</string>
+			<key>spritePosY</key>
+			<string>466</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{22, 466}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt38_BushCrashTop2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSizeX</key>
+			<string>73</string>
+			<key>spriteSizeY</key>
+			<string>51</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>413</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{95, 65}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 413}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt39_BushCrashBottom2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {95, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSizeX</key>
+			<string>95</string>
+			<key>spriteSizeY</key>
+			<string>61</string>
+			<key>spritePosX</key>
+			<string>131</string>
+			<key>spritePosY</key>
+			<string>300</string>
+			<key>spriteSize</key>
+			<string>{95, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{95, 65}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{131, 300}, {95, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt40_treetop1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {128, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>128</string>
+			<key>spriteSizeY</key>
+			<string>128</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{128, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {128, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt41_treetop3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {126, 118}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>126</string>
+			<key>spriteSizeY</key>
+			<string>118</string>
+			<key>spritePosX</key>
+			<string>260</string>
+			<key>spritePosY</key>
+			<string>236</string>
+			<key>spriteSize</key>
+			<string>{126, 118}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 118}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 236}, {126, 118}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt42_apple1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {15, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>15</string>
+			<key>spriteSizeY</key>
+			<string>12</string>
+			<key>spritePosX</key>
+			<string>521</string>
+			<key>spritePosY</key>
+			<string>218</string>
+			<key>spriteSize</key>
+			<string>{15, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 12}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{521, 218}, {15, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt43_Gnome.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>44</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>78</string>
+			<key>spritePosY</key>
+			<string>371</string>
+			<key>spriteSize</key>
+			<string>{44, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{78, 371}, {44, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt44_GnomeSmashed.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {65, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>65</string>
+			<key>spriteSizeY</key>
+			<string>70</string>
+			<key>spritePosX</key>
+			<string>545</string>
+			<key>spritePosY</key>
+			<string>172</string>
+			<key>spriteSize</key>
+			<string>{65, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 70}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{545, 172}, {65, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt45_GnomeBitRed1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {11, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>11</string>
+			<key>spriteSizeY</key>
+			<string>14</string>
+			<key>spritePosX</key>
+			<string>508</string>
+			<key>spritePosY</key>
+			<string>292</string>
+			<key>spriteSize</key>
+			<string>{11, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 14}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{508, 292}, {11, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt45_GnomeBitRed2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {14, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>14</string>
+			<key>spriteSizeY</key>
+			<string>12</string>
+			<key>spritePosX</key>
+			<string>212</string>
+			<key>spritePosY</key>
+			<string>363</string>
+			<key>spriteSize</key>
+			<string>{14, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{14, 12}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 363}, {14, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt45_GnomeBitRed3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {13, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>13</string>
+			<key>spriteSizeY</key>
+			<string>11</string>
+			<key>spritePosX</key>
+			<string>652</string>
+			<key>spritePosY</key>
+			<string>259</string>
+			<key>spriteSize</key>
+			<string>{13, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{13, 11}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{652, 259}, {13, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt45_GnomeBitRed4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {12, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>12</string>
+			<key>spriteSizeY</key>
+			<string>10</string>
+			<key>spritePosX</key>
+			<string>22</string>
+			<key>spritePosY</key>
+			<string>500</string>
+			<key>spriteSize</key>
+			<string>{12, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{12, 10}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{22, 500}, {12, 10}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt45_GnomeBitRed5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {13, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>13</string>
+			<key>spriteSizeY</key>
+			<string>12</string>
+			<key>spritePosX</key>
+			<string>587</string>
+			<key>spritePosY</key>
+			<string>291</string>
+			<key>spriteSize</key>
+			<string>{13, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{13, 12}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{587, 291}, {13, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt50_GnomeBitBlack1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>10</string>
+			<key>spriteSizeY</key>
+			<string>12</string>
+			<key>spritePosX</key>
+			<string>828</string>
+			<key>spritePosY</key>
+			<string>32</string>
+			<key>spriteSize</key>
+			<string>{10, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 12}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{828, 32}, {10, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt50_GnomeBitBlack2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {12, 11}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>12</string>
+			<key>spriteSizeY</key>
+			<string>11</string>
+			<key>spritePosX</key>
+			<string>814</string>
+			<key>spritePosY</key>
+			<string>80</string>
+			<key>spriteSize</key>
+			<string>{12, 11}</string>
+			<key>spriteSourceSize</key>
+			<string>{12, 11}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 80}, {12, 11}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt50_GnomeBitBlack3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {11, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSizeX</key>
+			<string>11</string>
+			<key>spriteSizeY</key>
+			<string>10</string>
+			<key>spritePosX</key>
+			<string>36</string>
+			<key>spritePosY</key>
+			<string>500</string>
+			<key>spriteSize</key>
+			<string>{11, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 14}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{36, 500}, {11, 10}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt50_GnomeBitBlack4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>10</string>
+			<key>spriteSizeY</key>
+			<string>8</string>
+			<key>spritePosX</key>
+			<string>533</string>
+			<key>spritePosY</key>
+			<string>232</string>
+			<key>spriteSize</key>
+			<string>{10, 8}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 8}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{533, 232}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt50_GnomeBitBlack5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>10</string>
+			<key>spriteSizeY</key>
+			<string>9</string>
+			<key>spritePosX</key>
+			<string>521</string>
+			<key>spritePosY</key>
+			<string>232</string>
+			<key>spriteSize</key>
+			<string>{10, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 9}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{521, 232}, {10, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt55_foamy1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 121}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>77</string>
+			<key>spriteSizeY</key>
+			<string>121</string>
+			<key>spritePosX</key>
+			<string>262</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{77, 121}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 121}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{262, 2}, {77, 121}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt55_foamy2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {70, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>70</string>
+			<key>spriteSizeY</key>
+			<string>115</string>
+			<key>spritePosX</key>
+			<string>676</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{70, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 115}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 2}, {70, 115}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt56_SheepPoo.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSizeX</key>
+			<string>52</string>
+			<key>spriteSizeY</key>
+			<string>52</string>
+			<key>spritePosX</key>
+			<string>454</string>
+			<key>spritePosY</key>
+			<string>292</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 292}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt57_TulipsRed.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 0}, {64, 87}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSizeX</key>
+			<string>64</string>
+			<key>spriteSizeY</key>
+			<string>87</string>
+			<key>spritePosX</key>
+			<string>521</string>
+			<key>spritePosY</key>
+			<string>244</string>
+			<key>spriteSize</key>
+			<string>{64, 87}</string>
+			<key>spriteSourceSize</key>
+			<string>{86, 95}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{521, 244}, {64, 87}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt58_TulipsRedPetal1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 15}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>10</string>
+			<key>spriteSizeY</key>
+			<string>15</string>
+			<key>spritePosX</key>
+			<string>508</string>
+			<key>spritePosY</key>
+			<string>308</string>
+			<key>spriteSize</key>
+			<string>{10, 15}</string>
+			<key>spriteSourceSize</key>
+			<string>{12, 15}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{508, 308}, {10, 15}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt59_TulipsRedPetal2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>10</string>
+			<key>spriteSizeY</key>
+			<string>14</string>
+			<key>spritePosX</key>
+			<string>508</string>
+			<key>spritePosY</key>
+			<string>325</string>
+			<key>spriteSize</key>
+			<string>{10, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 14}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{508, 325}, {10, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt60_TulipsSquashed.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 10}, {64, 65}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 5}</string>
+			<key>spriteSizeX</key>
+			<string>64</string>
+			<key>spriteSizeY</key>
+			<string>65</string>
+			<key>spritePosX</key>
+			<string>252</string>
+			<key>spritePosY</key>
+			<string>356</string>
+			<key>spriteSize</key>
+			<string>{64, 65}</string>
+			<key>spriteSourceSize</key>
+			<string>{86, 95}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{252, 356}, {64, 65}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt65_Picnic.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 111}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>82</string>
+			<key>spriteSizeY</key>
+			<string>111</string>
+			<key>spritePosX</key>
+			<string>128</string>
+			<key>spritePosY</key>
+			<string>363</string>
+			<key>spriteSize</key>
+			<string>{82, 111}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 111}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 363}, {82, 111}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt67_shaunShadow1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 11}, {22, 43}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSizeX</key>
+			<string>22</string>
+			<key>spriteSizeY</key>
+			<string>43</string>
+			<key>spritePosX</key>
+			<string>228</string>
+			<key>spritePosY</key>
+			<string>330</string>
+			<key>spriteSize</key>
+			<string>{22, 43}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 330}, {22, 43}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt67_shaunShadow2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{27, 9}, {18, 43}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSizeX</key>
+			<string>18</string>
+			<key>spriteSizeY</key>
+			<string>43</string>
+			<key>spritePosX</key>
+			<string>2</string>
+			<key>spritePosY</key>
+			<string>466</string>
+			<key>spriteSize</key>
+			<string>{18, 43}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 466}, {18, 43}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt67_shaunShadow3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 6}, {18, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 6}</string>
+			<key>spriteSizeX</key>
+			<string>18</string>
+			<key>spriteSizeY</key>
+			<string>45</string>
+			<key>spritePosX</key>
+			<string>587</string>
+			<key>spritePosY</key>
+			<string>244</string>
+			<key>spriteSize</key>
+			<string>{18, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{587, 244}, {18, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt67_shaunShadow4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 6}, {22, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 6}</string>
+			<key>spriteSizeX</key>
+			<string>22</string>
+			<key>spriteSizeY</key>
+			<string>45</string>
+			<key>spritePosX</key>
+			<string>521</string>
+			<key>spritePosY</key>
+			<string>124</string>
+			<key>spriteSize</key>
+			<string>{22, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{521, 124}, {22, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt67_shaunShadow5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 7}, {22, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 5}</string>
+			<key>spriteSizeX</key>
+			<string>22</string>
+			<key>spriteSizeY</key>
+			<string>45</string>
+			<key>spritePosX</key>
+			<string>521</string>
+			<key>spritePosY</key>
+			<string>171</string>
+			<key>spriteSize</key>
+			<string>{22, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 69}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{521, 171}, {22, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt68_piggyShadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {39, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>39</string>
+			<key>spriteSizeY</key>
+			<string>72</string>
+			<key>spritePosX</key>
+			<string>676</string>
+			<key>spritePosY</key>
+			<string>205</string>
+			<key>spriteSize</key>
+			<string>{39, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{45, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 205}, {39, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt88_TulipsYellow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 3}, {62, 85}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSizeX</key>
+			<string>62</string>
+			<key>spriteSizeY</key>
+			<string>85</string>
+			<key>spritePosX</key>
+			<string>612</string>
+			<key>spritePosY</key>
+			<string>172</string>
+			<key>spriteSize</key>
+			<string>{62, 85}</string>
+			<key>spriteSourceSize</key>
+			<string>{86, 95}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{612, 172}, {62, 85}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt88_TulipsYellowPetal1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {12, 15}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>12</string>
+			<key>spriteSizeY</key>
+			<string>15</string>
+			<key>spritePosX</key>
+			<string>770</string>
+			<key>spritePosY</key>
+			<string>91</string>
+			<key>spriteSize</key>
+			<string>{12, 15}</string>
+			<key>spriteSourceSize</key>
+			<string>{12, 15}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 91}, {12, 15}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt88_TulipsYellowPetal2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {9, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>9</string>
+			<key>spriteSizeY</key>
+			<string>14</string>
+			<key>spritePosX</key>
+			<string>814</string>
+			<key>spritePosY</key>
+			<string>49</string>
+			<key>spriteSize</key>
+			<string>{9, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{9, 14}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 49}, {9, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt89_TulipsWhite.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 2}, {64, 85}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSizeX</key>
+			<string>64</string>
+			<key>spriteSizeY</key>
+			<string>85</string>
+			<key>spritePosX</key>
+			<string>388</string>
+			<key>spritePosY</key>
+			<string>292</string>
+			<key>spriteSize</key>
+			<string>{64, 85}</string>
+			<key>spriteSourceSize</key>
+			<string>{86, 95}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 292}, {64, 85}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt89_TulipsWhitePetal1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {12, 15}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>12</string>
+			<key>spriteSizeY</key>
+			<string>15</string>
+			<key>spritePosX</key>
+			<string>814</string>
+			<key>spritePosY</key>
+			<string>32</string>
+			<key>spriteSize</key>
+			<string>{12, 15}</string>
+			<key>spriteSourceSize</key>
+			<string>{12, 15}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 32}, {12, 15}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt89_TulipsWhitePetal2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>10</string>
+			<key>spriteSizeY</key>
+			<string>18</string>
+			<key>spritePosX</key>
+			<string>748</string>
+			<key>spritePosY</key>
+			<string>91</string>
+			<key>spriteSize</key>
+			<string>{10, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 18}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{748, 91}, {10, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt90_TulipsBlue.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 0}, {64, 87}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSizeX</key>
+			<string>64</string>
+			<key>spriteSizeY</key>
+			<string>87</string>
+			<key>spritePosX</key>
+			<string>748</string>
+			<key>spritePosY</key>
+			<string>2</string>
+			<key>spriteSize</key>
+			<string>{64, 87}</string>
+			<key>spriteSourceSize</key>
+			<string>{86, 95}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{748, 2}, {64, 87}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt90_TulipsBluePetal1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10, 13}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>10</string>
+			<key>spriteSizeY</key>
+			<string>13</string>
+			<key>spritePosX</key>
+			<string>814</string>
+			<key>spritePosY</key>
+			<string>65</string>
+			<key>spriteSize</key>
+			<string>{10, 13}</string>
+			<key>spriteSourceSize</key>
+			<string>{10, 13}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 65}, {10, 13}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt90_TulipsBluePetal2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {9, 13}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSizeX</key>
+			<string>9</string>
+			<key>spriteSizeY</key>
+			<string>13</string>
+			<key>spritePosX</key>
+			<string>825</string>
+			<key>spritePosY</key>
+			<string>49</string>
+			<key>spriteSize</key>
+			<string>{9, 13}</string>
+			<key>spriteSourceSize</key>
+			<string>{11, 13}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{825, 49}, {9, 13}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gt91_TulipsPetalShadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 2}, {8, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSizeX</key>
+			<string>8</string>
+			<key>spriteSizeY</key>
+			<string>16</string>
+			<key>spritePosX</key>
+			<string>760</string>
+			<key>spritePosY</key>
+			<string>91</string>
+			<key>spriteSize</key>
+			<string>{8, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{760, 91}, {8, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>
