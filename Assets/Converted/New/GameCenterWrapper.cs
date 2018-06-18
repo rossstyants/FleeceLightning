@@ -11,8 +11,9 @@
 using UnityEngine;
 using System.Collections;
 using UnityEngine.SocialPlatforms;
+#if UNITY_IOS
 using UnityEngine.SocialPlatforms.GameCenter;
-
+#endif
 namespace Default.Namespace
 {
 public static class GameCenterWrapper
