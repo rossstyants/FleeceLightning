@@ -640,6 +640,13 @@ namespace Default.Namespace
             switch (newScreen) {
             case FrontEndScreenEnum.kFrontEndScreen_Legal :
                 ((screen[(int)newScreen]).GetQuery(0)).Show();
+
+
+				for (int i = 0; i < screen[(int)newScreen].numFunnyWords; i++)
+				{
+					UnityEngine.Debug.Log("LEGAL SCREEN fw " + i.ToString() + " = " + screen[(int)newScreen].GetFunnyWord(i).textString);
+				}
+
                 break;
             case FrontEndScreenEnum.kFrontEndScreen_ControlChoice_Choose :
                 break;

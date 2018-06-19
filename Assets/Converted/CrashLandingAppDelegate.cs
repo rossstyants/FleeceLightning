@@ -19,14 +19,14 @@ using System;
 	};
 
 
-		public enum BuildTypeEnum{
-			kWW,
-			kAJAKINDLE,
-			kROWKINDLE,
-			kSAMSUNG,
-			kAJAGPLAY,
-			kROWGPLAY
-		};
+//		public enum BuildTypeEnum{
+//			kWW,
+//			kAJAKINDLE,
+//			kROWKINDLE,
+//			kSAMSUNG,
+//			kAJAGPLAY,
+//			kROWGPLAY
+//		};
 		
 
 
@@ -34,7 +34,7 @@ using System;
     {
 
 		public Default.Namespace.World world;
-		public BuildTypeEnum BUILDTYPE;
+//		public BuildTypeEnum BUILDTYPE;
 	
 	
 				//public static AndroidJavaClass adcJavaClass;

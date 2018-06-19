@@ -187,27 +187,43 @@ namespace Default.Namespace
 
 					string urlString = "";
 					
-					switch(Globals.g_main.BUILDTYPE)
-					{
-					case BuildTypeEnum.kWW:
-						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.ww";
-						break;
-					case BuildTypeEnum.kAJAKINDLE:
-						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.ajakindle";
-						break;
-					case BuildTypeEnum.kROWKINDLE:
-						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowkindle";
-						break;
-					case BuildTypeEnum.kSAMSUNG:
-						urlString = "market://details?id=" + "com.ea.android.fleecelightning.rowsamsung";
-						break;
-					case BuildTypeEnum.kAJAGPLAY:
-						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.ajagplay";
-						break;
-					case BuildTypeEnum.kROWGPLAY:
-						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";
-						break;
-					}					
+
+						switch(BuildBoss.Instance.buildType)
+						{
+						case BuildBoss.BuildTypeEnum.GOOGLE_PLAY_AND_AMAZON:
+							urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";
+							break;
+						case BuildBoss.BuildTypeEnum.AMAZON_SUBSCRIPTION:
+							urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";
+							break;
+						default:
+							urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";
+							break;
+						}
+
+
+
+//					switch(Globals.g_main.BUILDTYPE)
+//					{
+//					case BuildTypeEnum.kWW:
+//						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.ww";
+//						break;
+//					case BuildTypeEnum.kAJAKINDLE:
+//						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.ajakindle";
+//						break;
+//					case BuildTypeEnum.kROWKINDLE:
+//						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowkindle";
+//						break;
+//					case BuildTypeEnum.kSAMSUNG:
+//						urlString = "market://details?id=" + "com.ea.android.fleecelightning.rowsamsung";
+//						break;
+//					case BuildTypeEnum.kAJAGPLAY:
+//						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.ajagplay";
+//						break;
+//					case BuildTypeEnum.kROWGPLAY:
+//						urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";
+//						break;
+//					}					
 					
 //					Application.OpenURL(urlString);
 					
