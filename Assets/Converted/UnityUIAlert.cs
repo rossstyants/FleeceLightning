@@ -190,11 +190,14 @@ namespace Default.Namespace
 
 						switch(BuildBoss.Instance.buildType)
 						{
-						case BuildBoss.BuildTypeEnum.GOOGLE_PLAY_AND_AMAZON:
-							urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";
+						case BuildBoss.BuildTypeEnum.GOOGLE_PLAY:
+							urlString = "market://details?id=" + BuildBoss.Instance.googlePlayPackageName;
+							break;
+						case BuildBoss.BuildTypeEnum.AMAZON:
+							urlString = "market://details?id=" + BuildBoss.Instance.amazonPackageName;
 							break;
 						case BuildBoss.BuildTypeEnum.AMAZON_SUBSCRIPTION:
-							urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";
+							urlString = "market://details?id=" + BuildBoss.Instance.amazonSubscriptionPackageName;
 							break;
 						default:
 							urlString = "market://details?id=" + "com.chillingo.fleecelightning.android.rowgplay";

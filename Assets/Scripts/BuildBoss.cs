@@ -7,7 +7,8 @@ public class BuildBoss : Singleton<BuildBoss> {
 
 	public enum BuildTypeEnum{
 		IOS,
-		GOOGLE_PLAY_AND_AMAZON,
+		GOOGLE_PLAY,
+		AMAZON,
 		AMAZON_SUBSCRIPTION,
 	};
 
@@ -15,7 +16,9 @@ public class BuildBoss : Singleton<BuildBoss> {
 
 	public float buildNumber;
 	public string iosPackageName;
-	public string gPlayAndAmazonPackageName;
+//	public string gPlayAndAmazonPackageName;
+	public string googlePlayPackageName;
+	public string amazonPackageName;
 	public string amazonSubscriptionPackageName;
 
 
@@ -28,8 +31,10 @@ public class BuildBoss : Singleton<BuildBoss> {
 
 			if (buildType == BuildTypeEnum.IOS)
 				UnityEditor.PlayerSettings.applicationIdentifier = iosPackageName;
-			else if (buildType == BuildTypeEnum.GOOGLE_PLAY_AND_AMAZON)
-				UnityEditor.PlayerSettings.applicationIdentifier = gPlayAndAmazonPackageName;
+			else if (buildType == BuildTypeEnum.GOOGLE_PLAY)
+				UnityEditor.PlayerSettings.applicationIdentifier = googlePlayPackageName;
+			else if (buildType == BuildTypeEnum.AMAZON)
+				UnityEditor.PlayerSettings.applicationIdentifier = amazonPackageName;
 			else// if (buildType == BuildTypeEnum.GOOGLE_PLAY_AND_AMAZON)
 				UnityEditor.PlayerSettings.applicationIdentifier = amazonSubscriptionPackageName;
 		}
