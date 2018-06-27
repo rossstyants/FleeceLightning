@@ -25,6 +25,7 @@ public class BuildBoss : Singleton<BuildBoss> {
 	//------------------------------------------------------------
 	void Update () 
 	{
+		#if UNITY_EDITOR
 		if (!Application.isPlaying)
 		{
 			UnityEditor.PlayerSettings.bundleVersion = buildNumber.ToString();
@@ -38,5 +39,6 @@ public class BuildBoss : Singleton<BuildBoss> {
 			else// if (buildType == BuildTypeEnum.GOOGLE_PLAY_AND_AMAZON)
 				UnityEditor.PlayerSettings.applicationIdentifier = amazonSubscriptionPackageName;
 		}
+	    #endif
 	}
 }
